@@ -22,7 +22,7 @@
 
 ---------
 
-![Alex Carmona GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Alex Carmona GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexcarmona1&show_icons=true&theme=radical)
 
 
 <!-- site para os emojis: https://gist.github.com/rxaviers/7360908 -->
