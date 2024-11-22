@@ -20,6 +20,9 @@
 |Sistemas de Gerenciamento de Banco de Dados | [certificado](https://hermes.dio.me/certificates/JLAW6QWW.pdf)
 |Príncipios do Git e Github | [certificado](https://hermes.dio.me/certificates/98YW5HUP.pdf)
 
+---------
+
+![Alex Carmona GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!-- site para os emojis: https://gist.github.com/rxaviers/7360908 -->
