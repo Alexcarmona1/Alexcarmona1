@@ -10,8 +10,17 @@
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSam7c96o1nHXO6RvvdwHpmn00ZOzFVSaVLehCJLUyTdB7XC7oXbu-rp4Ev3RvoJkueW4M&usqp=CAU)
 
+--------------
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+
+
+
 
 <!-- site para os emojis: https://gist.github.com/rxaviers/7360908 -->
+<!-- site de icones legais:  https://devicon.dev/ -->
+
+
 
 <!--
 **Alexcarmona1/Alexcarmona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
