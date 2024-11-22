@@ -6,6 +6,9 @@
 - 👨🏻‍🎓 Sou formado em Direito.
 - 📖 Estudando sempre.
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSam7c96o1nHXO6RvvdwHpmn00ZOzFVSaVLehCJLUyTdB7XC7oXbu-rp4Ev3RvoJkueW4M&usqp=CAU)
+
+
 
 
 <!--
