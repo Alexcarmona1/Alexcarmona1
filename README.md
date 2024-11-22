@@ -1,11 +1,9 @@
 ## Hi there 👋
+# Bem-Vindos ao meu Github
 
-<!-- Cabeçalhos -->
-
-**Negrito** ou __negrito__
-*italico* ou _italico_
-___negrito e italico___
-
+- 😄 Me chamo alex 
+- 🔭 Estou em transição de carreira.
+- 
 
 
 
