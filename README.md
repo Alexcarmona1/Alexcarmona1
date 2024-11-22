@@ -12,6 +12,14 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px">
 
+----
+|Cursos| Certificados |
+|-------| -------------|
+|Lógica de Programação Essencial | [certificado](https://hermes.dio.me/certificates/R0K4INLG.pdf)
+|Fundamentos de Modelagem e Projeto de Banco de Dados | [certificado](https://hermes.dio.me/certificates/LHSZA0I1.pdf)
+|Sistemas de Gerenciamento de Banco de Dados | [certificado](https://hermes.dio.me/certificates/JLAW6QWW.pdf)
+|Príncipios do Git e Github | [certificado](https://hermes.dio.me/certificates/98YW5HUP.pdf)
+
 
 
 <!-- site para os emojis: https://gist.github.com/rxaviers/7360908 -->
