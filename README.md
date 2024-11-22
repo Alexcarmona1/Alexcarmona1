@@ -1,7 +1,6 @@
 # Bem-Vindos ao meu Github
 
 - 😄 Me chamo alex 
-- 🔭 Estou em transição de carreira.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Uninove.
 
 
