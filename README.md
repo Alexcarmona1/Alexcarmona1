@@ -4,12 +4,14 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Uninove.
 - 🌐 Iniciando neste Universo Tecnológico.
 - 👨🏻‍🎓 Sou formado em Direito.
-- 📖 Estudando sempre.
+- 💫 Estudando sempre.
+- 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/alexcarmonadev/)
+
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSam7c96o1nHXO6RvvdwHpmn00ZOzFVSaVLehCJLUyTdB7XC7oXbu-rp4Ev3RvoJkueW4M&usqp=CAU)
 
 
-
+<!-- site para os emojis: https://gist.github.com/rxaviers/7360908 -->
 
 <!--
 **Alexcarmona1/Alexcarmona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
