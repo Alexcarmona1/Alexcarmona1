@@ -2,6 +2,7 @@
 
 - 😄 Me chamo alex 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Uninove.
+- 🌐 Iniciando neste Universo Tecnológico.
 - 👨🏻‍🎓 Sou formado em Direito.
 - 📖 Estudando sempre.
 
